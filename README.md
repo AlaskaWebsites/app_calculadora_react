@@ -12,7 +12,7 @@ Este projeto é pessoal para estudo e aprofundamento em tecnologias Web como SPA
 
 1. Clone o repositório do GitHub.
 2. Abra o projeto no seu editor de código.
-3. Instala o pacote do projeto com npm install.
+3. Instale o pacote do projeto com npm install.
 4. Depois de instalado os pacotes, basta dar um npm start para iniciar o projeto na porta localhost:3000.
 
 ## Créditos
